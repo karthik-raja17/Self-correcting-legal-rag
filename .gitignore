@@ -1,13 +1,38 @@
-# Python venv
-rag/
-
-# Bytecode
+# --- Python Artifacts ---
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+rag/
+.env
 
-# VS Code settings
-.vscode/
+# --- Project Specific Data (DO NOT PUSH) ---
+# These folders contain your PDF datasets and parsed results
+Dataset/
+cache/
+*.db
+*.sqlite3
 
-# OS files
+# --- Vector Database ---
+# ChromaDB stores its index here; usually too large for Git
+chroma_db/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- OS Specific ---
 .DS_Store
+.DS_Store?
+._*
 Thumbs.db
+desktop.ini
+
+# --- IDEs ---
+.vscode/
+.idea/
+*.swp
+*.swo
