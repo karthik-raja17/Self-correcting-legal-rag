@@ -1,0 +1,41 @@
+2026-02-11 20:06:47,861 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2026-02-11 20:06:50,370 - INFO - 1 prompt is loaded, with the key: query
+2026-02-11 20:06:50,421 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 20:13:04,850 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2026-02-11 20:13:07,203 - INFO - 1 prompt is loaded, with the key: query
+2026-02-11 20:13:07,219 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 20:15:43,477 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2026-02-11 20:15:45,841 - INFO - 1 prompt is loaded, with the key: query
+2026-02-11 20:15:45,854 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 20:17:41,769 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2026-02-11 20:17:43,831 - INFO - 1 prompt is loaded, with the key: query
+2026-02-11 20:17:43,873 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 20:22:27,867 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2026-02-11 20:22:30,008 - INFO - 1 prompt is loaded, with the key: query
+2026-02-11 20:22:30,044 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 20:26:30,649 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2026-02-11 20:26:32,542 - INFO - 1 prompt is loaded, with the key: query
+2026-02-11 20:26:32,586 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 20:28:49,035 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2026-02-11 20:28:50,885 - INFO - 1 prompt is loaded, with the key: query
+2026-02-11 20:28:50,921 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 21:24:32,395 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-02-11 21:24:32,445 - INFO - Going to convert document batch...
+2026-02-11 21:24:32,446 - INFO - Initializing pipeline for StandardPdfPipeline with options hash 0b27287077de91a9e9b5ce84fa77c0bd
+2026-02-11 21:24:32,453 - INFO - Loading plugin 'docling_defaults'
+2026-02-11 21:24:32,456 - INFO - Registered picture descriptions: ['vlm', 'api']
+2026-02-11 21:24:32,461 - INFO - Loading plugin 'docling_defaults'
+2026-02-11 21:24:32,471 - INFO - Registered ocr engines: ['auto', 'easyocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+2026-02-11 21:24:32,933 - INFO - Accelerator device: 'cuda:0'
+2026-02-11 21:24:33,216 - INFO - Auto OCR model selected rapidocr with onnxruntime.
+2026-02-11 21:24:33,221 - INFO - Loading plugin 'docling_defaults'
+2026-02-11 21:24:33,227 - INFO - Registered layout engines: ['docling_layout_default', 'docling_experimental_table_crops_layout']
+2026-02-11 21:24:33,237 - INFO - Accelerator device: 'cuda:0'
+2026-02-11 21:24:33,767 - INFO - Loading plugin 'docling_defaults'
+2026-02-11 21:24:33,769 - INFO - Registered table structure engines: ['docling_tableformer']
+2026-02-11 21:24:33,932 - INFO - Accelerator device: 'cuda:0'
+2026-02-11 21:24:34,440 - INFO - Processing document EN OSC V2 - PPA Final.pdf
+2026-02-11 21:24:45,173 - INFO - Finished converting document EN OSC V2 - PPA Final.pdf in 12.78 sec.
+2026-02-11 21:24:45,265 - INFO - SUCCESS: EN OSC V2 - PPA Final.pdf | Hash: cd8cdd9a
+2026-02-11 21:24:45,286 - INFO - Load pretrained SentenceTransformer: BAAI/bge-m3
+2026-02-11 21:24:51,390 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
