@@ -1,23 +1,9 @@
-# Core - pin to working versions WITHOUT cloud dependencies
-llama-index-core==0.14.13
-llama-index-embeddings-huggingface==0.5.0
-llama-index-vector-stores-chroma==0.3.0
-llama-index-llms-groq==0.4.0
-
-# Embeddings
-transformers==4.57.1
-sentence-transformers==2.7.0
-torch==2.5.1
-accelerate==0.33.0
-
-# Vector Store
-chromadb==0.5.0
-
-# Document Processing
-docling==2.0.0
-
-# Utilities
-python-dotenv==1.0.0
-tqdm==4.66.0
-requests==2.31.0
-groq==0.9.0
+llama-index-core
+llama-index-embeddings-huggingface
+llama-index-vector-stores-chroma
+llama-index-llms-groq
+chromadb
+docling
+python-dotenv
+tqdm
+groq
